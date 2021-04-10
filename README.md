@@ -1,5 +1,6 @@
 # hello-world
-My second shit/
-im dont know what im doing...
+My second shit.
 
-first mark.
+Im dont know what im doing...
+
+First mark.
